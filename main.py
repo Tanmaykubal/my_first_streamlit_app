@@ -4,4 +4,3 @@ st.set_page_config(
     page_icon="🚀"
 )
 st.title('Main page')
-st.sidebar.success('Pages above')
